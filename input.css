@@ -1,0 +1,24 @@
+.wadah{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    padding: 50px;
+    background-color: rgb(171, 171, 171);
+    height: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+}
+button{
+    padding: 8px;
+    width: 100px;
+    background-color: green;
+    color: white;
+}
+.output{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 20px;
+}
+

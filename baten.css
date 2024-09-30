@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+button{
+    padding: 15px;
+    width: 200px;
+    background-color: rgb(1, 198, 1);
+    color: white;
+    margin-top: 10px;
+}
+#countdownAlert{
+    background-color: orangered;
+    padding: 20px;
+    width: 800px;
+    color:white;
+}
+.badar{
+    display: flex;
+    flex-direction: column-reverse;
+}
